@@ -1,0 +1,6 @@
+ls
+ls /tmp
+cd /home
+cd
+qwerty
+ls /after_error

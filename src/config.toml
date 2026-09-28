@@ -1,0 +1,2 @@
+vfs_root = "../vfs"
+startup_script = "./startup.txt"
